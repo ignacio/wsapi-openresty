@@ -15,7 +15,7 @@ description = {
 dependencies = { "lua >= 5.1", "wsapi >= 1.6.1" }
 
 source = {
-	url = "https://github.com/ignacio/wsapi-openresty/archive/0.0.1.tar.gz"
+	url = "https://github.com/ignacio/wsapi-openresty/archive/v0.0.1.tar.gz"
 }
 
 build = {
