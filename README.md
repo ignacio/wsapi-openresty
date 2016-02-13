@@ -1,6 +1,6 @@
 # wsapi-openresty
 
-A plugin for launching [WSAPI](http://keplerproject.github.io/wsapi/) applications on [OpenResty](https://openresty.org/).
+__wsapi-openresty__ is a [WSAPI](http://keplerproject.github.io/wsapi/) connector for [OpenResty](https://openresty.org/). WSAPI, among other things, defines an abstraction layer between your web application and the webserver it is running on, so your application would be webserver agnostic, being able to run on Apache, Xavante and now, OpenResty.
 
 # Installing
 
